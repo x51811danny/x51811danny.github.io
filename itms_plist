@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://app.raybet.io/upload/5da538f2ba6e86bfb426443e/ios/com.raybet.client.beta_3.0.0_304.ipa</string>
+                   <string>https://app.raybet.io/upload/5da553a5ba6e86bfb4264452/ios/com.raybet.client.e21_2.0.38_276.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -32,7 +32,7 @@
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.raybet.client.beta</string>
+               <string>com.raybet.client.e21</string>
                <key>bundle-version</key>
                <string>3.0.0</string>
                <key>kind</key>
