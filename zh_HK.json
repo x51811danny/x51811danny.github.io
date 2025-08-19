@@ -1,0 +1,36 @@
+{
+  "title": "你好",
+  "msg": "你好 {}，歡迎來到 {} 世界",
+  "msg_named": "{} 是用 {lang} 語言編寫的",
+  "clickMe": "點我",
+  "profile": {
+    "reset_password": {
+      "label": "重設密碼",
+      "username": "使用者名稱",
+      "password": "密碼"
+    }
+  },
+  "clicked": {
+    "zero": "你還沒有點擊過！",
+    "few": "你點了幾次 ({})！",
+    "many": "你點了很多次 ({})！",
+    "other": "你點了 {} 次！"
+  },
+  "amount": {
+    "zero": "你的金額：{}",
+    "one": "你的金額：{}",
+    "two": "你的金額：{}",
+    "few": "你的金額：{}",
+    "many": "你的金額：{}",
+    "other": "你的金額：{}"
+  },
+  "gender": {
+    "male": "嗨，兄弟 ;)",
+    "female": "嗨，小姐姐 :)",
+    "with_arg": {
+      "male": "嗨，兄弟 ;) {}",
+      "female": "嗨，小姐姐 :) {}"
+    }
+  },
+  "reset_locale": "重設語言"
+}
