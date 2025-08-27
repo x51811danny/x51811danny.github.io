@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:12
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.833333,
+huntr_draw0.ts
+#EXTINF:10.216667,
+huntr_draw1.ts
+#EXTINF:8.950000,
+huntr_draw2.ts
+#EXTINF:11.500000,
+huntr_draw3.ts
+#EXTINF:8.800000,
+huntr_draw4.ts
+#EXTINF:10.233333,
+huntr_draw5.ts
+#EXT-X-ENDLIST
